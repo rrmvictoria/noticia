@@ -1,0 +1,78 @@
+header {
+  margin-top: 50px;
+  width: 100%;
+  height: 150px;
+  background-color: #ad1111;
+}
+
+header .bbc {
+  width: 270px;
+}
+
+header #encabezado {
+  width: 100%;
+  height: 50px;
+  background-color: #ad1111;
+}
+
+header #encabezado nav {
+  width: 100%;
+  height: 15px;
+  margin-top: 1cm;
+  margin-bottom: 1cm;
+}
+
+header #encabezado nav .header1 {
+  float: left;
+  color: black;
+  text-decoration: none;
+  margin-right: 7cm;
+}
+
+header #encabezado nav .header1 .uno {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+  padding-top: 50px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body .sec1 {
+  margin-top: 4cm;
+  width: 100%;
+  background-color: #b13131;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body .sec1 .caja1 h1 {
+  width: 70px;
+  margin-top: 50px;
+  font-size: 40px;
+  color: black;
+}
+
+body .sec1 .caja1 .img .img1 {
+  width: 500px;
+}
+
+body .sec1 .caja1 .parrafo {
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: justify;
+}
+
+body .sec1 .caja1 .parrafo > h2 {
+  width: 200%;
+}
+
+body .sec1 .caja1 .video {
+  width: 500px;
+}
+
+body .sec2 {
+  float: right;
+  width: 30%;
+  margin-top: 50px;
+  background-color: grey;
+}
+/*# sourceMappingURL=noticia.css.map */
